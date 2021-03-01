@@ -1,4 +1,4 @@
-package java.executavel;
+package cursojava.executavel;
 
 public class helloworld {
 	public static void main(String[] args) {
